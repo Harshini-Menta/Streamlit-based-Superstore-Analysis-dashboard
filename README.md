@@ -46,9 +46,13 @@ An interactive data analysis and visualization dashboard built using Streamlit a
 
 ## File Structure 📁
 
+https://github.com/user-attachments/assets/bb58d0fd-95ef-407f-88bf-0694a0dc01cb
+
 - `dashboard.py`: The main application file containing all Streamlit and Plotly code.
 - `requirements.txt`: The dependencies required to run the app.
 - `Superstore.csv`: Sample dataset file to demonstrate the app's functionalities.
 
-## Screenshots 📷
+## Video 📷
+
+https://github.com/user-attachments/assets/bb58d0fd-95ef-407f-88bf-0694a0dc01cb
 
