@@ -14,21 +14,13 @@ An interactive data analysis and visualization dashboard built using Streamlit a
 
 ## Installation 📦
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/superstore-analysis-dashboard.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd superstore-analysis-dashboard
-   ```
-3. Install the required packages:
+1. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the Streamlit app:
+1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run dashboard.py
    ```
 
 ## Usage 🚀
@@ -46,13 +38,11 @@ An interactive data analysis and visualization dashboard built using Streamlit a
 
 ## File Structure 📁
 
-https://github.com/user-attachments/assets/bb58d0fd-95ef-407f-88bf-0694a0dc01cb
-
 - `dashboard.py`: The main application file containing all Streamlit and Plotly code.
 - `requirements.txt`: The dependencies required to run the app.
 - `Superstore.csv`: Sample dataset file to demonstrate the app's functionalities.
 
-## Video 📷
+## Output Video 📷
 
 https://github.com/user-attachments/assets/bb58d0fd-95ef-407f-88bf-0694a0dc01cb
 
