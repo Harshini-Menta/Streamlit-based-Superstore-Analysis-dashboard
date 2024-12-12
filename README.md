@@ -42,8 +42,7 @@ An interactive data analysis and visualization dashboard built using Streamlit a
 - `requirements.txt`: The dependencies required to run the app.
 - `Superstore.csv`: Sample dataset file to demonstrate the app's functionalities.
 
-## Output Video 📷
+## Output 
 
-https://github.com/user-attachments/assets/fb77ada8-80ad-4370-8f88-78b0d7383749
 
 
