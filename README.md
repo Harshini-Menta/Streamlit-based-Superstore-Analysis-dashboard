@@ -1,4 +1,4 @@
-# Retail Insights Dashboard
+# Superstore Analysis Dashboard
 
 An interactive data analysis and visualization dashboard built using Streamlit and Plotly, designed for in-depth exploration of Superstore sales data. This dashboard allows users to upload their own Superstore dataset and provides tools to filter, analyze, and visualize data across various sales dimensions, including categories, regions, time series, and more.
 
