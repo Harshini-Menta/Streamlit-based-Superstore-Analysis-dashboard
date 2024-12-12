@@ -44,5 +44,4 @@ An interactive data analysis and visualization dashboard built using Streamlit a
 
 ## Output Video 📷
 
-https://github.com/user-attachments/assets/bb58d0fd-95ef-407f-88bf-0694a0dc01cb
 
