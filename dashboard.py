@@ -18,7 +18,7 @@ if file is not None:
     st.write("File uploaded:",filename)
     df=pd.read_csv(filename,encoding="ISO-8859-1")
 else:
-    default_path = "/home/harshini/Desktop/streamlit/Sales/Superstore.csv"
+    default_path = "Superstore.csv"
     if os.path.exists(default_path):
         df = pd.read_csv(default_path)
         st.write("Using default file: Superstore.csv")
